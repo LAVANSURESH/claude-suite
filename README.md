@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Manual install (standard for GNOME Shell extensions):
 
 git clone <your-repo-url> claude-suite
@@ -57,4 +56,3 @@ Or enable it via the **Extensions** app (`gnome-extensions-app`).
 gnome-extensions disable claude-suite@lavansuresh.github.io
 rm -rf ~/.local/share/gnome-shell/extensions/claude-suite@lavansuresh.github.io
 ```
->>>>>>> 92678b0 (Claude-Extension read me)
