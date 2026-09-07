@@ -1,0 +1,152 @@
+.claude-suite-panel-button {
+    spacing: 6px;
+}
+
+.claude-suite-run-badge {
+    color: #3584e4;
+    font-weight: bold;
+    font-size: 0.9em;
+}
+
+.claude-suite-menu-title {
+    font-weight: bold;
+    font-size: 1.05em;
+    padding: 4px 8px;
+    color: #e0e0e0;
+}
+
+/* Account (claude-swap) */
+
+.claude-suite-account-active {
+    font-weight: bold;
+    color: #3584e4;
+}
+
+.claude-suite-progress-section {
+    padding: 4px 12px 6px 12px;
+}
+
+.claude-suite-progress-header {
+    margin-bottom: 2px;
+}
+
+.claude-suite-progress-title {
+    font-size: 0.88em;
+    color: #dedede;
+    font-weight: 500;
+}
+
+.claude-suite-progress-pct {
+    font-size: 0.85em;
+    color: #9a9996;
+    font-weight: bold;
+}
+
+.claude-suite-progress-track {
+    height: 8px;
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+
+.claude-suite-mini-track {
+    height: 4px;
+    margin-top: 4px;
+    margin-bottom: 2px;
+}
+
+/* Usage (claude-usage) */
+
+.claude-suite-task-box {
+    padding: 2px 0;
+}
+
+.claude-suite-task-summary {
+    font-weight: 600;
+}
+
+.claude-suite-task-meta {
+    opacity: 0.7;
+    font-size: 0.9em;
+}
+
+.claude-suite-task-delete {
+    opacity: 0.5;
+    padding: 2px;
+}
+
+.claude-suite-task-delete:hover {
+    opacity: 1;
+}
+
+.claude-suite-task-delete-armed {
+    opacity: 1;
+    background-color: rgba(224, 27, 36, 0.25);
+    border-radius: 4px;
+}
+
+.claude-suite-task-delete-icon {
+    icon-size: 14px;
+}
+
+/* Recent Sessions */
+
+.claude-suite-session-box {
+    padding: 2px 0;
+}
+
+.claude-suite-session-title {
+    font-weight: 600;
+}
+
+.claude-suite-session-meta {
+    opacity: 0.7;
+    font-size: 0.9em;
+}
+
+/* Pipeline (claude-pipeline) */
+
+.claude-suite-run-box {
+    padding: 2px 0;
+}
+
+.claude-suite-run-name {
+    font-weight: bold;
+}
+
+.claude-suite-run-meta {
+    font-size: 0.85em;
+    opacity: 0.7;
+}
+
+.claude-suite-run-action {
+    padding: 2px;
+    border-radius: 4px;
+}
+
+.claude-suite-run-action:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+/* Pipeline Dashboard */
+
+.claude-suite-dashboard-content {
+    spacing: 10px;
+    width: 34em;
+    height: 30em;
+}
+
+.claude-suite-dashboard-title {
+    font-weight: bold;
+    font-size: 1.2em;
+}
+
+.claude-suite-dashboard-stats {
+    font-size: 0.95em;
+    opacity: 0.8;
+}
+
+.claude-suite-dashboard-scroll {
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 6px;
+    padding: 6px;
+}

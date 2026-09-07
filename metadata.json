@@ -1,0 +1,13 @@
+{
+  "uuid": "claude-suite@lavansuresh.github.io",
+  "name": "Claude Suite",
+  "description": "One panel menu for Claude Code: switch accounts (cswap), view local usage stats, and run pipeline scenarios (background or terminal)",
+  "shell-version": [
+    "45",
+    "46",
+    "47",
+    "48"
+  ],
+  "version": 1,
+  "url": "https://github.com/LAVANSURESH/claude-suite"
+}
